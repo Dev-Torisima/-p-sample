@@ -1,2 +1,2 @@
 # -p-sample
--p (minus p)のサンプル
+-p のサンプル
